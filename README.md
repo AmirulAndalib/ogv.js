@@ -15,7 +15,7 @@ Based around libogg, libvorbis, libtheora, libopus, libvpx, libnestegg and dav1d
     * see `threaded.php` in the demo
 
 Internal updates:
-* Bump emscripten compatibility to 4.0.19
+* Bump emscripten compatibility to 6.0.1
 * internal API restructuring
 * file restructuring
 * es6 only
